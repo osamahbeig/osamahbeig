@@ -33,6 +33,7 @@ Building AI creative systems at **Uponly**. Something new ships here every coupl
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Osamah_Beig-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamahbeig)
+[![X](https://img.shields.io/badge/-@OsamahBeig-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/OsamahBeig)
 
 <details>
 <summary>Random facts</summary>
