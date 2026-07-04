@@ -1,8 +1,10 @@
 # Hi, I'm Osamah 👋
 
-📍 **Dubai** | 🤖 **I make agents that make ads** | 🎨 **Ex-Ogilvy, 17 years in advertising**
+📍 **Dubai** | 🤖 **I build agents that sell things** | 🎨 **Ex-Ogilvy, 17 years in advertising**
 
-Designer at Ogilvy, then creative director, then media buyer spending six figures a month of other people's money on direct response. Now I build the machines that do the job: agent pipelines that write, design, cut video, and argue with each other about copy until it converts.
+Designer at Ogilvy, then creative director, then media buyer spending six figures a month of other people's money on direct response. Now I build the machines that do the whole job: agents that write, design, cut video, build offers, and argue with each other until something sells.
+
+Selling was the hardest function to automate. It's the one I've automated.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,3 +33,12 @@ Building AI creative systems at **Uponly**. Something new ships here every coupl
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Osamah_Beig-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamahbeig)
+
+<details>
+<summary>Random facts</summary>
+
+- Everything I write starts as a voice note on a walk.
+- 17 years making ads taught me more about AI outputs than any benchmark.
+- Three years in Dubai and still not used to July.
+
+</details>
