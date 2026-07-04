@@ -31,12 +31,3 @@ Building AI creative systems at **Uponly**. Something new ships here every coupl
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Osamah_Beig-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamahbeig)
-
-<details>
-<summary>Random facts</summary>
-
-- Everything I write starts as a voice note on a walk.
-- 17 years making ads taught me more about AI outputs than any benchmark.
-- Three years in Dubai and still not used to July.
-
-</details>
