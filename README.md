@@ -21,11 +21,12 @@ Selling was the hardest function to automate. It's the one I've automated.
 
 ## Now
 
-Building AI creative systems at **Uponly**. Something new ships here every couple of weeks; this list grows.
+Building AI creative systems at **Uponly** and forward-deploying them into other people's businesses. Something new ships here every couple of weeks; this list grows.
 
 ## Things I currently believe
 
 - Distribution beats product.
+- Intelligence is cheap. Deployment is the moat.
 - Taste is the bottleneck, not the models.
 - A small agent with good context beats a big model without it.
 - The auction teaches you what design school doesn't.
